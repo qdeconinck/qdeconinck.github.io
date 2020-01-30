@@ -1,0 +1,40 @@
+- title: "Pluginizing QUIC"
+  image: pquic.png
+  description: We revisited the extensibility model of transport protocols by using plugins. The dynamic insertion of bytecode inside a running implementation let the connection adapt to the application it serves. We managed to implement various QUIC extensions (montoring, Multipath, Datagram, Forward Erasure Correction) only with plugins.
+  authors: Q. De Coninck, F. Michel, M. Piraux, F. Rochet, T. Given-Wilson, A. Legay, O. Pereira, O. Bonaventure
+  link:
+    url: https://dl.acm.org/doi/10.1145/3341302.3342078
+    display:  ACM SIGCOMM (2019)
+  highlight: 1
+  news2: See also <a href="https://pquic.org">pquic.org</a>.
+
+- title: "Multipath QUIC: Design and Evaluation"
+  image: mpquic.png
+  description: We developed and implemented multipath extensions for the QUIC protocol. We then compared then with the state-of-the-art Multipath TCP in a wide range of network parameters.
+  authors: Q. De Coninck, O. Bonaventure
+  link:
+    url: https://dl.acm.org/doi/10.1145/3143361.3143370
+    display:  ACM CoNEXT (2017)
+  highlight: 1
+  news1: See also <a href="https://multipath-quic.org">multipath-quic.org</a> and the current <a href="https://datatracker.ietf.org/doc/draft-deconinck-quic-multipath/">IETF draft</a>.
+  news2: You might also be interested in our <a href="https://itunes.apple.com/us/app/multipathtester/id1351286809?mt=8">MultipathTester iOS app</a> to evaluate Multipath QUIC in mobile conditions. 
+
+- title: "A First Analysis of Multipath TCP on Smartphones"
+  image: pam.png
+  description: Our first analysis of Multipath TCP in the smartphone environment. Our results showed that applications can use multiple wireless networks without modifying them, but it also highlighted the need for an adaptation of Multipath TCP to this particular use case.
+  authors: Q. De Coninck, M. Baerts, B. Hesmans, O. Bonaventure
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-319-30505-9_5
+    display:  Passive and Active Measurement (2016)
+  highlight: 1
+  news2: See also <a href="http://smartphone.multipath-tcp.org/">smartphone.multipath-tcp.org</a>.
+
+- title: "Tuning Multipath TCP for Interactive Applications on Smartphones"
+  image: multimob.png
+  description: We designed and implemented an adapted version of Multipath TCP on Android smartphones. We showed that our version keeps the cellular consumption low while keeping advantage of the multiple wireless networks when the device moves.
+  authors: Q. De Coninck, O. Bonaventure
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8696520
+    display:  IFIP Networking (2018)
+  highlight: 1
+  news2: See also <a href="http://multipath-tcp.org/multimob">http://multipath-tcp.org/multimob</a>.
