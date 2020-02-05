@@ -14,6 +14,7 @@ permalink: /
 <div class="col-sm-8 clearfix">
 I am a Ph.D. student under the supervisation of Prof. Olivier Bonaventure at [UCLouvain](https://uclouvain.be).
 I am part of the [IP Networking Lab](https://inl.info.ucl.ac.be/) research group.
+My UCLouvain page is available [here](https://uclouvain.be/fr/repertoires/quentin.deconinck).
 
 My research activites and publications are detailed in the [research section]( {% link _pages/research.md %} ) of this website.
 
