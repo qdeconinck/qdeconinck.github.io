@@ -10,6 +10,7 @@ permalink: /research/
 
 My research interests include multipath transport protocols and system architecture.
 I also strive to provide reproducible results and release my softwares under open-source licenses.
+You can have more detail on the dedicated [Software]({% link _pages/software.md %}) section.
 
 # Publications
 

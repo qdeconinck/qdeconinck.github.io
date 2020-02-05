@@ -1,0 +1,77 @@
+- title: "Pluginized QUIC"
+  type: "prototype"
+  description: A prototype of transport protocol being customizable on a per-connection basis by plugins
+  authors: Q. De Coninck, F. Michel, M. Piraux
+  pubrelated: Pluginized QUIC
+  links:
+    - url: https://pquic.org/
+      display: PQUIC Project Website
+    - url: https://github.com/p-quic/pquic
+      display: GitHub Repository
+
+- title: "mp-quic"
+  type: "prototype"
+  description: An implementation of Multipath GQUIC based on the <a href=https://github.com/lucas-clemente/quic-go>quic-go</a> implementation
+  authors: Q. De Coninck
+  pubrelated: "Multipath QUIC: Design and Evaluation, MultipathTester: Comparing MPTCP and MPQUIC in Mobile Environments"
+  links:
+    - url: https://multipath-quic.org
+      display: Multipath QUIC Project Website
+    - url: https://github.com/qdeconinck/mp-quic
+      display: GitHub Repository
+
+- title: "MultiMob"
+  type: "prototype"
+  description: An adapted version of Multipath TCP to the smartphone use case, bundled in a specific Android version for Nexus 5 devices
+  authors: Q. De Coninck
+  pubrelated: "Tuning Multipath TCP for Interactive Applications on Smartphones"
+  links:
+    - url: http://multipath-tcp.org/multimob/
+      display: MultiMob Project Webpage
+
+- title: "MultipathTester"
+  type: "tools"
+  description: An iOS application comparing the performance of iOS Multipath TCP implementation with Multipath QUIC
+  authors: Q. De Coninck
+  pubrelated: "MultipathTester: Comparing MPTCP and MPQUIC in Mobile Environments, Observing Network Handovers with Multipath TCP"
+  links:
+    - url: https://multipath-quic.org
+      display: Multipath QUIC Project Website (blog with findings)
+    - url: https://apps.apple.com/us/app/multipathtester/id1351286809
+      display: MultipathTester application on the App Store
+    - url: https://github.com/multipathtester
+      display: GitHub repositories
+
+- title: "Minitopo"
+  type: "tools"
+  description: A wrapper above Mininet to perform multipath experiments
+  authors: B. Hesmans, Q. De Coninck
+  pubrelated: "Multipath QUIC : Design and Evaluation, Tuning Multipath TCP for Interactive Applications on Smartphones"
+  links:
+    - url: https://github.com/qdeconinck/minitopo
+      display: GitHub repository
+
+- title: "Multipath TCP Analysis Scripts"
+  type: "tools"
+  description: Various scripts to analyze Multipath TCP traces
+  authors: Q. De Coninck, M. Baerts
+  pubrelated: "A First Analysis of Multipath TCP on Smartphones, Observing Real Smartphone Applications over Multipath TCP, Tuning Multipath TCP for Interactive Applications on Smartphones"
+  links:
+    - url: https://github.com/multipath-tcp/mptcp-analysis-scripts
+      display: GitHub repository
+
+- title: MultipathControl
+  type: "tools"
+  description: A tool controlling the network interfaces on Android devices
+  authors: M. Baerts, G. Detal, Q. De Coninck
+  pubrelated: "A First Analysis of Multipath TCP on Smartphones, Observing Real Smartphone Applications over Multipath TCP, Tuning Multipath TCP for Interactive Applications on Smartphones"
+  links:
+    - url: https://github.com/MPTCP-smartphone-thesis/MultipathControl
+      display: GitHub repository
+
+- title: Anonymized Network Traces of Real Multipath TCP-enabled smartphones
+  type: "data"
+  pubrelated: "A First Analysis of Multipath TCP on Smartphones"
+  links:
+    - url: http://crawdad.org/uclouvain/mptcp_smartphone/20160304/
+      display: Link to CRAWDAD
