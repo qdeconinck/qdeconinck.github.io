@@ -2,7 +2,7 @@
   type: "prototype"
   description: A prototype of transport protocol being customizable on a per-connection basis by plugins
   authors: Q. De Coninck, F. Michel, M. Piraux
-  pubrelated: Pluginized QUIC
+  pubrelated: Pluginizing QUIC
   links:
     - url: https://pquic.org/
       display: PQUIC Project Website
