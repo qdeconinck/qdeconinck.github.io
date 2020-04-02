@@ -19,5 +19,7 @@ My UCLouvain page is available [here](https://uclouvain.be/fr/repertoires/quenti
 My research activites and publications are detailed in the [research section]( {% link _pages/research.md %} ) of this website.
 
 You may also have a look at my [Google Scholar](https://scholar.google.be/citations?user=2akL5ySI3O0C&hl=en) profile.
+
+My thesis is freely available [here](/assets/thesis_deconinck.pdf) and you can watch my public thesis defense [on YouTube](https://youtu.be/b2FWfT9b3Ws?t=132).
 </div>
 </div>
