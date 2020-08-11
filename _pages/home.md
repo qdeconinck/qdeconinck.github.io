@@ -16,7 +16,10 @@ I just graduated as a Ph.D. under the supervision of Prof. Olivier Bonaventure a
 I am part of the [IP Networking Lab](https://inl.info.ucl.ac.be/) research group.
 My UCLouvain page is available [here](https://uclouvain.be/fr/repertoires/quentin.deconinck).
 
+My research interests include, but are not limited to, multipath transport protocols, network support for user mobility and system architecture.
+
 My research activites and publications are detailed in the [research section]( {% link _pages/research.md %} ) of this website.
+You can also retrieve the materials related to previously presented tutorials on the [teaching page]( {% link _pages/teaching.md %} ).
 
 You may also have a look at my [Google Scholar](https://scholar.google.be/citations?user=2akL5ySI3O0C&hl=en) profile.
 
