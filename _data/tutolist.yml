@@ -19,6 +19,8 @@ At the end of the tutorial, the attendees will be able to determine when and how
       display: Slides for Multipath QUIC part
     - url: https://github.com/qdeconinck/sigcomm20_mptp_tutorial
       display: Hands-on materials (vagrant box)
+    - url:
+      display: Tutorial recording (coming soon)
 
 - date: 25. Jun. 2019
   title: QUIC
