@@ -19,8 +19,8 @@ At the end of the tutorial, the attendees will be able to determine when and how
       display: Slides for Multipath QUIC part
     - url: https://github.com/qdeconinck/sigcomm20_mptp_tutorial
       display: Hands-on materials (vagrant box)
-    - url: https://ezcast.uclouvain.be/ezplayer/index.php?action=view_asset_bookmark&album=MultipathTransportTu-pub&asset=2020_08_27_16h56_53s&t=2337&type=cam
-      display: Tutorial recording
+    - url: https://ezcast.uclouvain.be/ezplayer?action=view_album_assets&album=MultipathTransportTu-pub&token=FCWCOIAY
+      display: Tutorial recording (starts at 38 min)
 
 - date: 25. Jun. 2019
   title: QUIC
