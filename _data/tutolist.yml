@@ -1,3 +1,25 @@
+- date: 25. Sep. 2020
+  title: Multipath Transport Protocols
+  authors: Quentin De Coninck
+  conference: <a href="https://sigmobile.org/mobicom/2020/workshops.php">ACM MobiCom 2020</a> (<a href="https://mptp-mobicom2020.github.io/"> tutorial page </a>)
+  description: "The tutorial aims at summarizing the lessons learned during the last ten years with multipath transport to enable SIGCOMM attendees to correctly apply those emerging protocols. More precisely, our tutorial’s objectives are the following:
+<ul>
+    <li>Understand the benefits and challenges of using multiple paths in the transport layer</li>
+    <li>Understand the design assumptions and principles of Multipath TCP</li>
+    <li>Understand how the security and flexibility features of QUIC have enabled a cleaner design for Multipath QUIC</li>
+    <li>Discover the impact of the algorithms that implementations use to manage the different paths: path manager, packet scheduler and the required adaptations to the congestion control scheme</li>
+</ul>
+At the end of the tutorial, the attendees will be able to determine when and how multipath transport can be applied to their use cases. They will also have a more in-depth understanding of the impact of the packet scheduling, congestion control and path management mechanisms on the performance of these protocols."
+  links:
+    - url: https://docs.google.com/presentation/d/1qJLmNYkiz7T_qBiX1cgv8OkQDvt6d0kEgPvBqHThcSI/edit?usp=sharing
+      display: Slides for the Multipath TCP lecture
+    - url: https://docs.google.com/presentation/d/1Fyaeqh2qSASts3e_oqc_gqL5wEJ2iWO4fUQr7G1x4K4/edit?usp=sharing
+      display: Slides for the Multipath QUIC lecture
+    - url: https://github.com/qdeconinck/sigcomm20_mptp_tutorial
+      display: Hands-on materials (vagrant box)
+    - url: https://ezcast.uclouvain.be/ezplayer?action=view_album_assets&album=MobiCom20TutorialMul-pub&token=ZGAASSAQ
+      display: Tutorial recording
+
 - date: 10. Aug. 2020
   title: Multipath Transport Protocols
   authors: Olivier Bonaventure, Quentin De Coninck
