@@ -1,3 +1,6 @@
+- date: 25. Oct 2021
+  headline: "The efforts towards standardization of Multipath Extensions for the QUIC protocol are going forward! See the <a href=\"https://datatracker.ietf.org/doc/draft-lmbdhk-quic-multipath/\">new commont IETF draft</a>."
+
 - date: 3. May 2021
   headline: "With our new multipath extensions, find out how we can take advantage of highly asymmetrical links with Multiflow QUIC! To appear in IEEE Communications Magazine, <a href=\"https://hdl.handle.net/2078.1/243486\"> a preprint is available here</a>."
 
