@@ -1,3 +1,13 @@
+- title: "xBGP: When You Can't Wait for the IETF and Vendors"
+  image: xbgp.png
+  description: How can we quickly deploy new BGP features in a network made of devices from different vendors? xBGP addresses this issue by proposing a vendor-neutral API enabling network operators to dynamically inject plugins in all xBGP-compliant implementations. We made FRRouting and BIRD xBGP-compliant and implemented different use-cases such as valley-free path checks and prefix origin validation.
+  authors: T. Wirtgen, Q. De Coninck, R. Bush, L. Vanbever, O. Bonaventure
+  link:
+    url: https://dl.acm.org/doi/10.1145/3422604.3425952
+    display:  ACM HotNets (2020)
+  highlight: 1
+  news2: See also <a href="https://pluginized-protocols.org/xbgp/">https://pluginized-protocols.org/xbgp/</a>.
+
 - title: "Pluginizing QUIC"
   image: pquic.png
   description: We revisited the extensibility model of transport protocols by using plugins. The dynamic insertion of bytecode inside a running implementation let the connection adapt to the application it serves. We managed to implement various QUIC extensions (montoring, Multipath, Datagram, Forward Erasure Correction) only with plugins.
@@ -13,8 +23,10 @@
   description: We developed and implemented multipath extensions for the QUIC protocol. We then compared then with the state-of-the-art Multipath TCP in a wide range of network parameters.
   authors: Q. De Coninck, O. Bonaventure
   link:
-    url: https://dl.acm.org/doi/10.1145/3143361.3143370
-    display:  ACM CoNEXT (2017)
+    - url: https://dl.acm.org/doi/10.1145/3143361.3143370
+      display:  ACM CoNEXT (2017)
+    - url: https://doi.org/10.1109/MCOM.001.2000892
+      display: IEEE Communications Magazine (2021)
   highlight: 1
   news1: See also <a href="https://multipath-quic.org">multipath-quic.org</a>, the current <a href="https://datatracker.ietf.org/doc/draft-deconinck-quic-multipath/">IETF draft</a> and our latest <a href="https://hdl.handle.net/2078.1/243486">journal publication on Multiflow QUIC</a>.
   news2: You might also be interested in our <a href="https://itunes.apple.com/us/app/multipathtester/id1351286809?mt=8">MultipathTester iOS app</a> to evaluate Multipath QUIC in mobile conditions.

@@ -1,3 +1,14 @@
+- title: "LibxBGP"
+  type: "prototype"
+  description: A library pluginizing BGP implementations written in C
+  authors: T. Wirtgen
+  pubrelated: "xBGP: When You Can't Wait for the IETF and Vendors"
+  links:
+    - url: https://pluginized-protocols.org/xbgp/
+      display: xBGP Project Website
+    - url: https://github.com/pluginized-protocols/libxbgp
+      display: GitHub repository
+
 - title: "Pluginized QUIC"
   type: "prototype"
   description: A prototype of transport protocol being customizable on a per-connection basis by plugins
