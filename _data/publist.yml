@@ -23,12 +23,10 @@
   description: We developed and implemented multipath extensions for the QUIC protocol. We then compared then with the state-of-the-art Multipath TCP in a wide range of network parameters.
   authors: Q. De Coninck, O. Bonaventure
   link:
-    - url: https://dl.acm.org/doi/10.1145/3143361.3143370
-      display:  ACM CoNEXT (2017)
-    - url: https://doi.org/10.1109/MCOM.001.2000892
-      display: IEEE Communications Magazine (2021)
+    url: https://dl.acm.org/doi/10.1145/3143361.3143370
+    display:  ACM CoNEXT (2017)
   highlight: 1
-  news1: See also <a href="https://multipath-quic.org">multipath-quic.org</a>, the current <a href="https://datatracker.ietf.org/doc/draft-deconinck-quic-multipath/">IETF draft</a> and our latest <a href="https://hdl.handle.net/2078.1/243486">journal publication on Multiflow QUIC</a>.
+  news1: See also <a href="https://multipath-quic.org">multipath-quic.org</a>, the current <a href="https://datatracker.ietf.org/doc/draft-deconinck-quic-multipath/">IETF draft</a> and our latest <a href="https://doi.org/10.1109/MCOM.001.2000892">journal publication on Multiflow QUIC at IEEE Communications Magazine (2021)</a>.
   news2: You might also be interested in our <a href="https://itunes.apple.com/us/app/multipathtester/id1351286809?mt=8">MultipathTester iOS app</a> to evaluate Multipath QUIC in mobile conditions.
 
 - title: "A First Analysis of Multipath TCP on Smartphones"
