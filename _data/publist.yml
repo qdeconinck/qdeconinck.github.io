@@ -16,8 +16,8 @@
     url: https://dl.acm.org/doi/10.1145/3143361.3143370
     display:  ACM CoNEXT (2017)
   highlight: 1
-  news1: See also <a href="https://multipath-quic.org">multipath-quic.org</a> and the current <a href="https://datatracker.ietf.org/doc/draft-deconinck-quic-multipath/">IETF draft</a>.
-  news2: You might also be interested in our <a href="https://itunes.apple.com/us/app/multipathtester/id1351286809?mt=8">MultipathTester iOS app</a> to evaluate Multipath QUIC in mobile conditions. 
+  news1: See also <a href="https://multipath-quic.org">multipath-quic.org</a>, the current <a href="https://datatracker.ietf.org/doc/draft-deconinck-quic-multipath/">IETF draft</a> and our latest <a href="https://hdl.handle.net/2078.1/243486">journal publication on Multiflow QUIC</a>.
+  news2: You might also be interested in our <a href="https://itunes.apple.com/us/app/multipathtester/id1351286809?mt=8">MultipathTester iOS app</a> to evaluate Multipath QUIC in mobile conditions.
 
 - title: "A First Analysis of Multipath TCP on Smartphones"
   image: pam.png
