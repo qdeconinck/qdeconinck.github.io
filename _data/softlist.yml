@@ -22,7 +22,7 @@
 
 - title: "mp-quic"
   type: "prototype"
-  description: An implementation of Multipath GQUIC based on the <a href="https://github.com/lucas-clemente/quic-go">quic-go</a> implementation
+  description: "An implementation of Multipath GQUIC based on the <a href='https://github.com/lucas-clemente/quic-go'>quic-go</a> implementation"
   authors: Q. De Coninck
   pubrelated: "Multipath QUIC: Design and Evaluation, MultipathTester: Comparing MPTCP and MPQUIC in Mobile Environments"
   links:
