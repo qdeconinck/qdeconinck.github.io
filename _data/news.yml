@@ -1,17 +1,64 @@
-- date: 09. Nov 2021
+- date: 24. Nov. 2022
+  headline: "Invited to present \"Integrating a Multipath Transport Protocol in my Application: Challenges to get Benefits\" during the <a href=\"https://team.inria.fr/wide/wos/\">Worshop on Streaming</a> that took place at Rennes."
+
+- date: 17. Nov. 2022
+  headline: My last day as a research intern @ Apple. Big thanks to the different teams for the experience there!
+
+- date: 06. Sep. 2022
+  headline: Exploring the pros and cons of different Multipath QUIC designs in "<a href="https://dl.acm.org/doi/abs/10.1145/3561954.3561956">The Packet Number Space Debate in Multipath QUIC</a>", now available in ACM SIGCOMM Computer Communication Reviews (July 2022 issue).
+
+- date: 05. Sep 2022
+  headline: My Multipath QUIC implementation inside the Cloudflare's quiche one is now <a href="https://github.com/cloudflare/quiche/pull/1310">under reviewing process</a>.
+
+- date: 23. Aug. 2022
+  headline: Happy to be still part of the program committee of the <a href="https://conferences.sigcomm.org/co-next/2022/#!/workshop-student">ACM CoNEXT student workshop</a>.
+
+- date: 18. Aug. 2022
+  headline: "Our paper \"<a href=\"https://ieeexplore.ieee.org/abstract/document/9861377\">FlEC: Enhancing QUIC with application-tailored reliability mechanisms</a>\" now available in ACM/IEEE Transactions on Networking."
+
+- date: 01. Aug. 2022
+  headline: Starting visiting the Network Embedded Systems team of Prof. Danny Hughes @ KU Leuven.
+
+- date: 09. Jul. 2022
+  headline: "Our paper \"xBGP: Faster Innovation in Routing Protocols\" just got accepted for publication at USENIX NSDI!"
+
+- date: 21. May. 2022
+  headline: <a href="https://github.com/cloudflare/quiche/pull/1223">Connection migration support</a> just got merged in the Cloudflare's quiche implementation! Thanks to the Apple's team for making this possible!
+
+- date: 05. Feb. 2022
+  headline: "The third edition of the \"Computer Networking: Principles, Protocols and Practice\" ebook is <a href=\"https://beta.computer-networking.info/syllabus/default/index.html\">now live</a>."
+
+- date: 15. Nov. 2021
+  headline: Starting a research internship in the Core Networking team @ Apple.
+
+- date: 09. Nov. 2021
   headline: "Our paper \"xBGP: When you can’t wait for the IETF and vendors\" received the <a href=\"https://irtf.org/anrp/\">IETF 112 Applied Research Networking Prize</a>! Congratulations to the main author Thomas Wirtgen."
 
-
-- date: 25. Oct 2021
+- date: 25. Oct. 2021
   headline: "The efforts towards standardization of Multipath Extensions for the QUIC protocol are going forward! See the <a href=\"https://datatracker.ietf.org/doc/draft-lmbdhk-quic-multipath/\">new common IETF draft</a>."
 
-- date: 3. May 2021
+- date: 07. - 09. Jul. 2021
+  headline: Got interesting discussions during the Dagsthul seminar \#21272 to make Internet research more climate-friendly.
+
+- date: 01. Jun. 2021
+  headline: Joining the program commitee of the <a href="https://conferences.sigcomm.org/co-next/2021/#!/workshop-student">ACM CoNEXT student workshop</a>.
+
+- date: 03. May 2021
   headline: "With our new multipath extensions, find out how we can take advantage of highly asymmetrical links with Multiflow QUIC! To appear in IEEE Communications Magazine, <a href=\"https://hdl.handle.net/2078.1/243486\"> a preprint is available here</a>."
+
+- date: 17. Mar. 2021
+  headline: Just invited to be part of the program commitee for the new <a href="https://conferences.sigcomm.org/sigcomm/2021/workshop-flexnets.html">ACM SIGCOMM's FlexNets workshop</a>!
+
+- date: 18. Feb. 2021
+  headline: Co-presented an invited lecture related to multipath transport protocols by Steven Latré @ University of Antwerp.
 
 - date: 25. Sep. 2020
   headline: Just presented our tutorial about <a href="https://mptp-mobicom2020.github.io/">Multipath Transport Protocols</a> at ACM MobiCom 2020. All the tutorial material is available on my <a href="/teaching">teaching page</a>.
 
-- date: 4. Sep. 2020
+- date: 05. Sep. 2020
+  headline: I will act as a PC member for the <a href="https://conferences.sigcomm.org/co-next/2020/#!/workshop-student">ACM CoNEXT student workshop</a>.
+
+- date: 04. Sep. 2020
   headline: "Our paper \"xBGP: When you can’t wait for the IETF and vendors\" got accepted at <a href=\"https://conferences.sigcomm.org/hotnets/2020\">HotNets'20</a>! Congratulations to my co-authors: Randy Bush, Laurent Vanbever, Olivier Bonaventure and especially the first one Thomas Wirtgen."
 
 - date: 10. Aug. 2020
@@ -29,14 +76,42 @@
 - date: 23. Mar. 2020
   headline: Our tutorial proposal about "Multipath Transport Protocols" got accepted at ACM SIGCOMM 2020!
 
-- date: 05. & 06. Feb 2020
+- date: 05. & 06. Feb. 2020
   headline: I took part at the IETF QUIC interim meeting at Zurich and presented a <a href="https://github.com/quicwg/wg-materials/blob/master/interim-20-02/multipath_extensions_for_quic.pdf">overview of the Multipath extensions for QUIC</a>.
 
-- date: 04. Feb 2020
+- date: 04. Feb. 2020
   headline: Very glad to have the opportunity to visit ETH Zurich and present a seminar presentation about "Pluginizing QUIC"!
 
-- date: 30. Jan 2020
-  headline: "This website is up."
-
-- date: 20. Aug 2019
+- date: 20. Aug. 2019
   headline: We presented our paper <a href="https://dl.acm.org/doi/10.1145/3341302.3342078">Pluginizing QUIC</a> at <a href="http://conferences2.sigcomm.org/sigcomm/2019/">ACM SIGCOMM'19</a>!
+
+- date: 25. Jun. 2019
+  headline: Invited to <a href="https://2019.compas-conference.fr/">COMPAS</a> to give a tutorial about the QUIC protocol. Slides are available on the <a href="/teaching">teaching page</a>.
+
+- date: 07. May. 2019
+  headline: Presented my work about Multipath QUIC @ <a href="https://quic.edm.uhasselt.be/symposium19/">QUIC symposium</a> taking place at UHasselt.
+
+- date: 27. Oct. 2018
+  headline: Running for the <a href="https://2018.bapc.eu/">Benelux Algorithmic Programming Contest</a>.
+
+- date: 16. May. 2018
+  headline: Presenting "Tuning Multipath TCP for Interactive Applications on Smartphones" @ <a href="https://networking.ifip.org/2018/">IFIP Networking</a> in Zurich, Switzerland.
+
+- date: 19. Dec. 2017
+  headline: "Many thanks to IIJ Labs for inviting me to present \"Multipath QUIC: Taking the Best of Multipath and TCP\". Slides can be retrieved <a href=\"https://www.iijlab.net/en/activities/seminars.html\">here</a>."
+
+- date: 13. Dec. 2017
+  headline: "Just presented \"Multipath QUIC: Design and Evaluation\" @ ACM CoNEXT. See <a href=\"https://conferences2.sigcomm.org/co-next/2017/#!/program\">here</a> for the paper and slides links."
+
+- date: 12. & 13. Nov. 2016
+  headline: Our IETF Multipath TCP Hackathon @ UCLouvain, running in parallel with IETF 97 Hackathon, attracted about 25 students. See details <a href="http://blog.multipath-tcp.org/blog/html/2016/11/13/multipath_tcp_projects_during_the_ietf97_hackathon.html">here</a>.
+
+- date: 08. Apr. 2016
+  headline: The poster version of "A First Analysis of Multipath TCP on Smartphone" got the <a href="https://tma.ifip.org/2016/phdSchool/posters/BPA.pdf">best poster award @ TMA School 2016</a>!
+
+- date: 31. Mar. 2016
+  headline: Presenting my first conference paper "A First Analysis of Multipath TCP on Smartphones" @ <a href="https://projects.ics.forth.gr/pam2016/program.html">Passive and Active Measurements</a>.
+
+- date: 08. Sep. 2015
+  headline: Just started my Ph.D. and already presenting a <a href="https://www.sigmobile.org/mobicom/2015/posters.html">poster @ ACM MobiCom</a> :-)
+
