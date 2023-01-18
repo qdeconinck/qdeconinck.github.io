@@ -3,7 +3,7 @@ name: Build and deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - master # or master before October 2020
+      - master
 
 jobs:
   github-pages:
@@ -19,4 +19,4 @@ jobs:
       - uses: helaili/jekyll-action@2.4.0    # Choose any one of the Jekyll Actions
         with:                                # Some relative inputs of your action
           token: ${{ secrets.GITHUB_TOKEN }}
-	  target_branch: 'gh-pages'
+          target_branch: 'gh-pages'
