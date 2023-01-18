@@ -12,7 +12,8 @@ permalink: /
 <img src="{{ site.url }}{{ site.baseurl }}/images/qdeconinck.png" class="img-responsive" width="100%" style="float: center" />
 </div>
 <div class="col-sm-8 clearfix">
-I just graduated as a Ph.D. under the supervision of Prof. Olivier Bonaventure at [UCLouvain](https://uclouvain.be).
+I am a post-doc working on computer network protocols.
+I graduated under the supervision of Prof. Olivier Bonaventure at [UCLouvain](https://uclouvain.be).
 I am part of the [IP Networking Lab](https://inl.info.ucl.ac.be/) research group.
 My UCLouvain page is available [here](https://uclouvain.be/fr/repertoires/quentin.deconinck).
 
