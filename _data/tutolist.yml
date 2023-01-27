@@ -1,8 +1,8 @@
 - date: 24. Nov. 2022
-  title: Integrating a Multipath Transport Protocol in my Application: Challenges to get Benefits
+  title: "Integrating a Multipath Transport Protocol in my Application: Challenges to get Benefits"
   authors: Quentin De Coninck
-  conference: "<a href="https://team.inria.fr/wide/wos/">WOS'22: workshop on streaming</a>"
-  description: " With the increasing adoption of Multipath TCP (and more recently Multipath QUIC), applications can now simultaneously use several network paths. There are two major use cases for using multiple paths: bandwidth aggregation and fast network resiliency. However, “Multipath-specific” algorithms (path management, packet scheduling,…) often optimise specific applications and misusing them might lead to counter-intuitive results. In this talk, we will consider two simple applications having different requirements. Considering Multipath TCP and Multipath QUIC, we will see how these protocols behave in different network scenarios. We will conclude by a discussion about the streaming case."
+  conference: "<a href=\"https://team.inria.fr/wide/wos/\">WOS'22: workshop on streaming</a>"
+  description: "With the increasing adoption of Multipath TCP (and more recently Multipath QUIC), applications can now simultaneously use several network paths. There are two major use cases for using multiple paths: bandwidth aggregation and fast network resiliency. However, “Multipath-specific” algorithms (path management, packet scheduling,…) often optimise specific applications and misusing them might lead to counter-intuitive results. In this talk, we will consider two simple applications having different requirements. Considering Multipath TCP and Multipath QUIC, we will see how these protocols behave in different network scenarios. We will conclude by a discussion about the streaming case."
   links:
     - url: /assets/tutorials/WOS22
       display: Slides (PDF)
