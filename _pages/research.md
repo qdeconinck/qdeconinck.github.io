@@ -59,7 +59,20 @@ You can have more detail on the dedicated [Software]({% link _pages/software.md 
 
 ## Full List
 
-Our DIAL institutional library gives access to pre-print of my papers.
+<a
+id="cy-effective-orcid-url"
+class="underline"
+    href="https://orcid.org/0000-0001-6483-3157"
+    target="orcid.widget"
+    rel="me noopener noreferrer"
+    style="vertical-align: top">
+    <img
+    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+    style="width: 1em; margin-inline-start: 0.5em"
+    alt="ORCID iD icon"/>
+    https://orcid.org/0000-0001-6483-3157
+</a>
 
+Our DIAL institutional library gives access to pre-print of my papers.
 
 <iframe src="https://dial.uclouvain.be/DialExport/Portail?method=keyword&amp;type=classic&amp;report=true&amp;book=true&amp;patent=true&amp;preprint=true&amp;conferencePaper=true&amp;journalArticle=true&amp;bookChapter=true&amp;thesis=true&amp;workingPaper=true&amp;sort=date&amp;sortType=desc&amp;author=De+Coninck%2C+Quentin" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" width="100%" height="3600" frameborder="0"></iframe>
