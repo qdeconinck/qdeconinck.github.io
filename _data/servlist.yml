@@ -1,0 +1,95 @@
+- type: "conf_org"
+  name: "IEEE ICNP 2024: General Chair"
+
+- type: "conf_org"
+  name: "IFIP/IEEE TMA 2024: PhD School Chair"
+
+- type: "tpc"
+  name: "ACM IMC 2024"
+
+- type: "tpc"
+  name: "IEEE ICNP 2024"
+
+- type: "tpc"
+  name: "ACM/IRTF ANRW 2024"
+
+- type: tpc
+  name: ACM CoNEXT 2023 Student workshop
+
+- type: tpc
+  name: ACM SIGCOMM 2023’s Workshop on eBPF and Kernel Extensions
+
+- type: tpc
+  name: ACM CoNEXT 2022's Student workshop
+
+- type: tpc
+  name: ACM SIGCOMM 2022's Posters and Demos
+
+- type: tpc
+  name: ACM CoNEXT 2021's Student workshop
+
+- type: tpc
+  name: ACM SIGCOMM 2021’s FlexNets workshop
+
+- type: tpc
+  name: ACM CoNEXT 2020's Student workshop
+
+- type: ext_jour
+  name: IEEE Transactions on Network and Service Management (2024, 2023, 2022, 2021, 2020)
+
+- type: ext_jour
+  name: IEEE Communication Magazine (2024, 2022)
+
+- type: "ext_jour"
+  name: "IEEE/ACM Transactions on Networking (2024, 2023, 2019)"
+
+- type: ext_jour
+  name: Elsevier Computer Networks (2024, 2023, 2022, 2021, 2020, 2019)
+
+- type: ext_jour
+  name: Elsevier Ad Hoc Networks (2023)
+
+- type: ext_jour
+  name: Journal of Reliable Intelligent Environments (2023)
+
+- type: ext_jour
+  name: International Journal of Communication Systems (2023)
+
+- type: ext_jour
+  name: IEEE Transactions on Machine Learning in Communications and Networking (2023)
+
+- type: ext_jour
+  name: ACM SIGCOMM Computer Communication Review (2023, 2022, 2017)
+
+- type: ext_jour
+  name: IEEE Communications Letters (2022, 2018)
+
+- type: ext_jour
+  name: IEEE Transactions on Multimedia (2021)
+
+- type: ext_jour
+  name: IEEE Access (2020)
+
+- type: ext_jour
+  name: Elsevier Computer Communications (2020, 2018)
+
+- type: ext_jour
+  name: IEEE Wireless Communications Magazine (2018)
+
+- type: ext_conf
+  name: ACM CoNEXT 2021's Artifact Evaluation
+
+- type: "ext_conf"
+  name: "EAI Mobiquitous 2020"
+
+- type: ext_conf
+  name: ACM SIGCOMM 2020's Artifact Evaluation
+
+- type: ext_conf
+  name: USENIX Annual Technical Conference 2019
+
+- type: ext_conf
+  name: ACM CoNEXT 2019's Artifact Evaluation
+
+- type: ext_conf
+  name: ACM IMC 2017 (shadow TPC member)
