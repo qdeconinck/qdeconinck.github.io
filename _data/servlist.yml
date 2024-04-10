@@ -1,3 +1,6 @@
+- type: "tpc"
+  name: "USENIX NSDI 2025"
+
 - type: "conf_org"
   name: "IEEE ICNP 2024: General Chair"
 
