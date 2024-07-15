@@ -73,6 +73,7 @@ class="underline"
     https://orcid.org/0000-0001-6483-3157
 </a>
 
-Our DIAL institutional library gives access to pre-print of my papers.
+Our ORBI institutional library gives access to pre-print of my papers.
 
-<iframe src="https://dial.uclouvain.be/DialExport/Portail?method=keyword&amp;type=classic&amp;report=true&amp;book=true&amp;patent=true&amp;preprint=true&amp;conferencePaper=true&amp;journalArticle=true&amp;bookChapter=true&amp;thesis=true&amp;workingPaper=true&amp;sort=date&amp;sortType=desc&amp;author=De+Coninck%2C+Quentin" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" width="100%" height="3600" frameborder="0"></iframe>
+
+<iframe src="https://orbi.umons.ac.be/widget?query=author_authority%3A%28538074%29&sort_1=issued_dt%3Adesc&lang_code=en" title="Publication List" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" width="100%" height="5000" frameborder="0"></iframe>
