@@ -14,6 +14,9 @@
   name: "IEEE ICNP 2024"
 
 - type: "tpc"
+  name: "ACM SIGCOMM 2024's Workshop on eBPF and Kernel Extensions"
+
+- type: "tpc"
   name: "ACM/IRTF ANRW 2024"
 
 - type: tpc
