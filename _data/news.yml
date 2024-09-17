@@ -1,5 +1,14 @@
+- date: 29 Jul. 2024
+  headline: "Registrations for the <a href=\"https://icnp24.cs.ucr.edu\">IEEE ICNP 2024 conference</a>, to be held in Charleroi (Belgium), are now <a href=\"https://icnp24.cs.ucr.edu/registration.html\">open</a>."
+
+- date: 04 Jun. 2024
+  headline: "Presenting my paper <a href=\"https://ieeexplore.ieee.org/document/10619827\">\"Core QUIC: Enabling Dynamic, Implementation-Agnostic Protocol Extensions\"</a> at IFIP Networking 2024, the technical report is <a href=\"https://doi.org/10.48550/arXiv.2405.01279\">freely accessible on ArXiV</a>."
+
 - date: 21 May 2024
   headline: "Currently chairing the <a href=\"https://tma.ifip.org/2024/phd-school/\">TMA'24 PhD School</a> in Dresden, Germany."
+
+- date: 20 Feb. 2024
+  headline: "Our paper <a href=\"https://doi.org/10.1145/3649171.3649173\">\"On Integrating eBPF into Pluginized Protocols\"</a> is now published in ACM SIGCOMM Computer Communication Review."
 
 - date: 12 Nov. 2023
   headline: "<a href=\"https://distrinet.cs.kuleuven.be/people/ShirinKalantari\">Shirin Kalantari</a> presented our paper <a href=\"https://dl.acm.org/doi/10.1145/3628356.3630115\">\"URLink: Using Names As Sole Internet Addresses to Tackle Scanning Attacks in IoT\"</a> at the <a href=\"https://sensorssp.github.io/sensorssp23/\">Security and Privacy of Sensing Systems Workshop</a>, co-located with SenSys'23."
