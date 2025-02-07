@@ -1,11 +1,31 @@
-- title: "xBGP: When You Can't Wait for the IETF and Vendors"
-  image: xbgp.png
-  description: How can we quickly deploy new BGP features in a network made of devices from different vendors? xBGP addresses this issue by proposing a vendor-neutral API enabling network operators to dynamically inject plugins in all xBGP-compliant implementations. We made FRRouting and BIRD xBGP-compliant and implemented different use-cases such as valley-free path checks and prefix origin validation.
-  authors: T. Wirtgen, Q. De Coninck, R. Bush, L. Vanbever, O. Bonaventure
+- title: "Core QUIC: Enabling Dynamic, Implementation-Agnostic Protocol Extensions"
+  image: corequic.png
+  description: Core QUIC introduces a framework in which *any* Core QUIC-compliant implementation can be safely extended using dynamically loaded plugins. We demonstrated the feasibility of our approach by making two popular QUIC implementations, Cloudflare's `quiche` and `quinn`, Core QUIC compliant.
+  authors: Q. De Coninck
   link:
-    url: https://dl.acm.org/doi/10.1145/3422604.3425952
-    display:  ACM HotNets (2020)
+    url: https://doi.org/10.23919/IFIPNetworking62109.2024.10619827
+    display: IFIP Networking (2024)
   highlight: 1
+  news1: See the related website <a href="https://core-quic.github.io">https://core-quic.github.io</a>
+
+- title: "URLink: Using Names As Sole Internet Addresses to Tackle Scanning Attacks in IoT"
+  image: urlink.jpg
+  description: The Internet has never connected so many devices as of today, with an increasing number of constrained/IoT devices being publicly reachable over the public Internet, and therefore scannable through IP address enumeration. This work questions the current TCP/IP architecture of the current Internet and envisions a network whose names, such as URLs, are the only information the client needs to know to reach the wanted service.
+  authors: Q. De Coninck, S. Kalantari, L. Sion, D. Hughes
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3628356.3630115
+    display: SensorsS&P (2023)
+  highlight: 1
+
+- title: "xBGP: Faster Innovation in Routing Protocols"
+  image: xbgp.png
+  description: How can we quickly deploy new BGP features in a network made of devices from different vendors? xBGP addresses this issue by proposing a vendor-neutral API enabling network operators to dynamically inject plugins in all xBGP-compliant implementations. We made FRRouting and BIRD xBGP-compliant and implemented different use-cases such as valley-free path checks and prefix origin validation. We also proposed a framework verifing the behavior of the injected plugins.
+  authors: T. Wirtgen, T. Rousseaux, Q. De Coninck, R. Bush, L. Vanbever, A. Legay, O. Bonaventure
+  link:
+    url: https://www.usenix.org/conference/nsdi23/presentation/wirtgen
+    display: USENIX NSDI (2023)
+  highlight: 1
+  news1: "You may find our previous ACM HotNets paper <a href=\"https://dl.acm.org/doi/10.1145/3422604.3425952\">xBGP: When You Can't Wait for the IETF and Vendors</a>"
   news2: See also <a href="https://pluginized-protocols.org/xbgp/">https://pluginized-protocols.org/xbgp/</a>.
 
 - title: "Pluginizing QUIC"
@@ -26,7 +46,7 @@
     url: https://dl.acm.org/doi/10.1145/3143361.3143370
     display:  ACM CoNEXT (2017)
   highlight: 1
-  news1: See also <a href="https://multipath-quic.org">multipath-quic.org</a>, the current <a href="https://datatracker.ietf.org/doc/draft-deconinck-quic-multipath/">IETF draft</a> and our latest <a href="https://doi.org/10.1109/MCOM.001.2000892">journal publication on Multiflow QUIC at IEEE Communications Magazine (2021)</a>.
+  news1: See also <a href="https://multipath-quic.org">multipath-quic.org</a>, the current <a href="https://datatracker.ietf.org/doc/draft-deconinck-quic-multipath/">IETF draft</a>, the <a href="https://doi.org/10.1109/MCOM.001.2000892">journal publication on Multiflow QUIC at IEEE Communications Magazine (2021)</a> and my <a href="https://dl.acm.org/doi/abs/10.1145/3561954.3561956">ACM SIGCOMM CCR paper</a> guiding Multipath QUIC towards the right design (also presented at <a href="https://conferences.sigcomm.org/sigcomm/2023/program.html#program-program">ACM SIGCOMM'23</a> in the "Best of CCR" session).
   news2: You might also be interested in our <a href="https://itunes.apple.com/us/app/multipathtester/id1351286809?mt=8">MultipathTester iOS app</a> to evaluate Multipath QUIC in mobile conditions.
 
 - title: "A First Analysis of Multipath TCP on Smartphones"

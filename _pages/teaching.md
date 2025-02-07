@@ -9,8 +9,24 @@ permalink: /teaching/
 # Teaching
 
 My teaching contributions fall into two categories.
-On the one hand, I have contributions to several tutorials that have been presented during academic conferences.
-On the other hand, I am involved in the organization of University courses.
+On the one hand, I am teaching cybersecurity-related courses at the University (UMONS, Belgium), serving both lectures and practical sessions.
+On the other hand, I have contributions to several tutorials that have been presented during academic conferences.
+In the past, I was involved in the organization of practical sessions at UCLouvain.
+
+## University Courses
+
+I teach the following courses.
+
+<ul>
+
+{% for course in site.data.courselist %}
+<li>
+<p><a href="{{ course.link }}">{{ course.title }}</a></p>
+</li>
+
+{% endfor %}
+
+</ul>
 
 ## Tutorials
 
@@ -30,13 +46,13 @@ On the other hand, I am involved in the organization of University courses.
 
 </ul>
 
-## University Courses
+## Old University Courses
 
 I have been involved in the following courses.
 
 <ul>
 
-{% for course in site.data.courselist %}
+{% for course in site.data.oldcourselist %}
 <li>
 <p>{{ course.title}}, as a {{course.role}} ({{ course.date }})</p>
 </li>

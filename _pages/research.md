@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-My research interests include multipath transport protocols and system architecture.
+My research interests include multipath transport protocols, system architecture and security of deployed systems.
 I also strive to provide reproducible results and release my softwares under open-source licenses.
 You can have more detail on the dedicated [Software]({% link _pages/software.md %}) section.
 
