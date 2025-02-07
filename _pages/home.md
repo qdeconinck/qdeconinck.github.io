@@ -21,6 +21,7 @@ I was part of the [IP Networking Lab](https://inl.info.ucl.ac.be/) research grou
 My research interests include, but are not limited to:
  - multipath transport protocols
  - network support for user mobility
+ - security implications of IT/OT convergence
  - system architecture
  - virtualization techniques
 
