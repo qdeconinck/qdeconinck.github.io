@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quentin De Coninck - Research</title>
+  <meta name="description" content="Quentin De Coninck -- Research">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="/research/">
+<link rel="shortcut icon" type ="image/x-icon" href="/images/favicon.ico">
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82472331-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+</head>
+
+
+  <body>
+
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+	<div class="navbar-header">
+	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	  </button>
+	
+    <a class="navbar-brand" href="/">Quentin De Coninck</a>
+	</div>
+	<div class="collapse navbar-collapse" id="navbar-collapse-1">
+	  <ul class="nav navbar-nav navbar-right">
+		<li><a href="/">Home</a></li>
+		<li><a href="/allnews">News</a></li>
+		<li><a href="/research">Research</a></li>
+		<li><a href="/services">Services</a></li>
+		<li><a href="/software">Software</a></li>
+		<li><a href="/teaching">Teaching</a></li>
+	  </ul>
+	</div>
+  </div>
+</div>
+
+
+    <div class="container-fluid">
+      <div class="row">
+        <div id="textid" class="col-sm-12">
+  <h1 id="research">Research</h1>
+
+<p>My research interests include multipath transport protocols, system architecture and security of deployed systems.
+I also strive to provide reproducible results and release my softwares under open-source licenses.
+You can have more detail on the dedicated <a href="/software/">Software</a> section.</p>
+
+<h1 id="publications">Publications</h1>
+
+<h2 id="highlights">Highlights</h2>
+
+<p>(For a full list see <a href="#full-list">below</a> or go to <a href="https://scholar.google.be/citations?user=2akL5ySI3O0C&amp;hl=en">Google Scholar</a>)</p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Core QUIC: Enabling Dynamic, Implementation-Agnostic Protocol Extensions</pubtit>
+      <p><img src="/images/pubpic/corequic.png" class="img-responsive img-margin" width="33%" style="float: left" /></p>
+      <p>Core QUIC introduces a framework in which <em>any</em> Core QUIC-compliant implementation can be safely extended using dynamically loaded plugins. We demonstrated the feasibility of our approach by making two popular QUIC implementations, Cloudflare’s <code class="language-plaintext highlighter-rouge">quiche</code> and <code class="language-plaintext highlighter-rouge">quinn</code>, Core QUIC compliant.</p>
+      <p><em>Q. De Coninck</em></p>
+      <p><strong><a href="https://doi.org/10.23919/IFIPNetworking62109.2024.10619827">IFIP Networking (2024)</a></strong></p>
+      <p class="text-danger"><strong> See the related website <a href="https://core-quic.github.io">https://core-quic.github.io</a></strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>URLink: Using Names As Sole Internet Addresses to Tackle Scanning Attacks in IoT</pubtit>
+      <p><img src="/images/pubpic/urlink.jpg" class="img-responsive img-margin" width="33%" style="float: left" /></p>
+      <p>The Internet has never connected so many devices as of today, with an increasing number of constrained/IoT devices being publicly reachable over the public Internet, and therefore scannable through IP address enumeration. This work questions the current TCP/IP architecture of the current Internet and envisions a network whose names, such as URLs, are the only information the client needs to know to reach the wanted service.</p>
+      <p><em>Q. De Coninck, S. Kalantari, L. Sion, D. Hughes</em></p>
+      <p><strong><a href="https://dl.acm.org/doi/abs/10.1145/3628356.3630115">SensorsS&amp;P (2023)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>xBGP: Faster Innovation in Routing Protocols</pubtit>
+      <p><img src="/images/pubpic/xbgp.png" class="img-responsive img-margin" width="33%" style="float: left" /></p>
+      <p>How can we quickly deploy new BGP features in a network made of devices from different vendors? xBGP addresses this issue by proposing a vendor-neutral API enabling network operators to dynamically inject plugins in all xBGP-compliant implementations. We made FRRouting and BIRD xBGP-compliant and implemented different use-cases such as valley-free path checks and prefix origin validation. We also proposed a framework verifing the behavior of the injected plugins.</p>
+      <p><em>T. Wirtgen, T. Rousseaux, Q. De Coninck, R. Bush, L. Vanbever, A. Legay, O. Bonaventure</em></p>
+      <p><strong><a href="https://www.usenix.org/conference/nsdi23/presentation/wirtgen">USENIX NSDI (2023)</a></strong></p>
+      <p class="text-danger"><strong> You may find our previous ACM HotNets paper <a href="https://dl.acm.org/doi/10.1145/3422604.3425952">xBGP: When You Can’t Wait for the IETF and Vendors</a></strong></p>
+      <p> See also <a href="https://pluginized-protocols.org/xbgp/">https://pluginized-protocols.org/xbgp/</a>.</p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Pluginizing QUIC</pubtit>
+      <p><img src="/images/pubpic/pquic.png" class="img-responsive img-margin" width="33%" style="float: left" /></p>
+      <p>We revisited the extensibility model of transport protocols by using plugins. The dynamic insertion of bytecode inside a running implementation let the connection adapt to the application it serves. We managed to implement various QUIC extensions (montoring, Multipath, Datagram, Forward Erasure Correction) only with plugins.</p>
+      <p><em>Q. De Coninck, F. Michel, M. Piraux, F. Rochet, T. Given-Wilson, A. Legay, O. Pereira, O. Bonaventure</em></p>
+      <p><strong><a href="https://dl.acm.org/doi/10.1145/3341302.3342078">ACM SIGCOMM (2019)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> See also <a href="https://pquic.org">pquic.org</a>.</p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Multipath QUIC: Design and Evaluation</pubtit>
+      <p><img src="/images/pubpic/mpquic.png" class="img-responsive img-margin" width="33%" style="float: left" /></p>
+      <p>We developed and implemented multipath extensions for the QUIC protocol. We then compared then with the state-of-the-art Multipath TCP in a wide range of network parameters.</p>
+      <p><em>Q. De Coninck, O. Bonaventure</em></p>
+      <p><strong><a href="https://dl.acm.org/doi/10.1145/3143361.3143370">ACM CoNEXT (2017)</a></strong></p>
+      <p class="text-danger"><strong> See also <a href="https://multipath-quic.org">multipath-quic.org</a>, the current <a href="https://datatracker.ietf.org/doc/draft-deconinck-quic-multipath/">IETF draft</a>, the <a href="https://doi.org/10.1109/MCOM.001.2000892">journal publication on Multiflow QUIC at IEEE Communications Magazine (2021)</a> and my <a href="https://dl.acm.org/doi/abs/10.1145/3561954.3561956">ACM SIGCOMM CCR paper</a> guiding Multipath QUIC towards the right design (also presented at <a href="https://conferences.sigcomm.org/sigcomm/2023/program.html#program-program">ACM SIGCOMM’23</a> in the “Best of CCR” session).</strong></p>
+      <p> You might also be interested in our <a href="https://itunes.apple.com/us/app/multipathtester/id1351286809?mt=8">MultipathTester iOS app</a> to evaluate Multipath QUIC in mobile conditions.</p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>A First Analysis of Multipath TCP on Smartphones</pubtit>
+      <p><img src="/images/pubpic/pam.png" class="img-responsive img-margin" width="33%" style="float: left" /></p>
+      <p>Our first analysis of Multipath TCP in the smartphone environment. Our results showed that applications can use multiple wireless networks without modifying them, but it also highlighted the need for an adaptation of Multipath TCP to this particular use case.</p>
+      <p><em>Q. De Coninck, M. Baerts, B. Hesmans, O. Bonaventure</em></p>
+      <p><strong><a href="https://link.springer.com/chapter/10.1007/978-3-319-30505-9_5">Passive and Active Measurement (2016)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> See also <a href="http://smartphone.multipath-tcp.org/">smartphone.multipath-tcp.org</a>.</p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Tuning Multipath TCP for Interactive Applications on Smartphones</pubtit>
+      <p><img src="/images/pubpic/multimob.png" class="img-responsive img-margin" width="33%" style="float: left" /></p>
+      <p>We designed and implemented an adapted version of Multipath TCP on Android smartphones. We showed that our version keeps the cellular consumption low while keeping advantage of the multiple wireless networks when the device moves.</p>
+      <p><em>Q. De Coninck, O. Bonaventure</em></p>
+      <p><strong><a href="https://ieeexplore.ieee.org/abstract/document/8696520">IFIP Networking (2018)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> See also <a href="http://multipath-tcp.org/multimob">http://multipath-tcp.org/multimob</a>.</p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="full-list">Full List</h2>
+
+<p><a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0000-0001-6483-3157" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top">
+    <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon" />
+    https://orcid.org/0000-0001-6483-3157
+</a></p>
+
+<p>Our ORBI institutional library gives access to pre-print of my papers.</p>
+
+<iframe src="https://orbi.umons.ac.be/widget?query=author_authority%3A%28538074%29&amp;sort_1=issued_dt%3Adesc&amp;lang_code=en" title="Publication List" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" width="100%" height="5000" frameborder="0"></iframe>
+
+</div>
+
+      </div>
+    </div>
+
+    <div id="footer" class="panel">
+  <div class="panel-footer">
+	<div class="container-fluid">
+	  <div class="row">
+		<div class="col-sm-4">
+
+		  <p>&copy 2020 Quentin De Coninck. Site made with <a href="https://jekyllrb.com">Jekyll</a> based on the great open source template of the <a href="https://www.allanlab.org/">Allan Lab group</a>.</p>
+
+
+		   <p>  </p><p>
+
+
+		</div>
+		<div class="col-sm-4">
+		  Funding:<br />
+		  - <a href="https://staff.umons.ac.be/Quentin.DECONINCK/">Lecturer at UMONS</a> <br />
+		</div>
+		<div class="col-sm-4">
+		  Contact:<br />
+		  Rue de Houdain 9<br />
+		  7000 Mons<br />
+		  Belgium<br />
+		  <br />
+		  E-mail: quentin.deconinck (at) umons (dot) ac (dot) be
+            <!-- (<a href="https://goo.gl/maps/4f3DwjAY2QT2">Maps</a>, <a href="https://uclouvain.be/en/research-institutes/icteam/ingi/about.html">Directions</a>) -->
+		</div>
+	  </div>
+	</div>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+  </body>
+
+</html>
