@@ -1,4 +1,13 @@
 - type: "tpc"
+  name: "IEEE ICNP 2025"
+
+- type: "tpc"
+  name: "ACM SIGCOMM 2025's Workshop on eBPF and Kernel Extensions"
+
+- type: "tpc"
+  name: "ACM/IRTF ANRW 2025"
+
+- type: "tpc"
   name: "ACM IMC 2025"
 
 - type: "tpc"
